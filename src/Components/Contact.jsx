@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 import { ArrowUpRight } from 'lucide-react'
-import SectionHeader from './SectionHeader'
+import SectionHeader from './temp'
 import { CONTACT_LINKS } from '../data/data'
 
 export default function Contact() {

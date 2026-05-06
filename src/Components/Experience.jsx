@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import SectionHeader from './SectionHeader'
+import SectionHeader from './temp'
 import { EXPERIENCE } from '../data/data'
 
 function ExperienceCard({ exp, index }) {

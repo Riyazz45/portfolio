@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 import { ExternalLink, Github } from 'lucide-react'
-import SectionHeader from './SectionHeader'
+import SectionHeader from './temp'
 import { PROJECTS } from '../data/data'
 
 const COLOR_MAP = {
