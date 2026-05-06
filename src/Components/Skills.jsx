@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import SectionHeader from './temp'
+import SectionHeader from './SectionHeader'
 import { SKILLS, EDUCATION, CERTIFICATIONS } from '../data/data'
 
 const CAT_COLORS = {
