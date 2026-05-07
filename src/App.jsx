@@ -1,5 +1,5 @@
 import React from 'react'
-import { useTheme } from './Theme/Usetheme'
+import { useTheme } from './theme/useTheme'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Skills from './components/Skills'
